@@ -1,5 +1,13 @@
 # Image-Size-in-Bytes
 Code used for SEO, to get the size of the images in bytes 
+
+To install the 'requests' module, you can use the following command in your command prompt or terminal:
+
+pip install requests
+
+Make sure you have Python and pip (Python package installer) installed on your system, and that they are properly configured in your system's environment variables. After executing the command, pip will download and install the 'requests' module from the Python Package Index (PyPI).
+Note: If you're using a virtual environment, make sure it is activated before running the command to ensure that the module is installed within the correct environment.
+
 The code you provided is a Python script that utilizes the 'requests' module to obtain the size of images from a list of URLs.
 
 Here's a breakdown of how the code works:
